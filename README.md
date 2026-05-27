@@ -5,4 +5,10 @@ For details see arXiv:xxxx.xxxxx.
 
 Data is given as parseable python code - a list of dictionaries with entries corresponding to various parameters and experimental Tc.
 
+Energy unit is eV, temperature unit is K.
+
 See example_script.ipynb to get started.
+
+If you find this database useful, cite
+
+arXiv:xxxx.xxxxx
