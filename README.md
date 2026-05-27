@@ -7,6 +7,8 @@ Data is given as parseable python code - a list of dictionaries with entries cor
 
 Energy unit is eV, temperature unit is K.
 
+Folder PLOTS contains PDF's with DFT bandstructure and partial DOS results, as well as cRPA results that were used to derive the models.
+
 See example_script.ipynb to get started.
 
 If you find this database useful, cite
