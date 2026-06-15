@@ -1,9 +1,9 @@
 # cuprate_parametrization
-Database for 1-band Hubbard and 3-band Emery model parameters for superconducting cuprates. Crystal structures are taken from MaterialsProject. Tight-binding parameters are obtained using maximally localized Wannier functions (MLWFs). Interaction parameters are obtained using cRPA. Superconducting T_c values are taken from experimental literature. 
+Database of model parameters for superconducting cuprates. We provide parameters for 1-band Hubbard and 3-band Emery model. Crystal structures are taken from MaterialsProject. Tight-binding parameters are obtained using maximally localized Wannier functions (MLWFs). Interaction parameters are obtained using cRPA. Superconducting T_c values are taken from experimental literature. 
 
 For details see [1]. The paramater names are as in the paper. In addition, parameters named "n" are DFT occupancies of Wannier orbitals, while "X" are the off-diagonal elements of the DFT single-particle density-matrix.
 
-Data is given as parseable python code - a list of dictionaries with entries corresponding to various parameters and experimental Tc.
+Data is given as parseable python code - a list of dictionaries, one per compound and crystallographically inequivalent CuO2 layer, with entries corresponding to various parameters and experimental Tc.
 
 Energy unit is eV, temperature unit is K.
 
