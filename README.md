@@ -18,9 +18,9 @@ Folder PLOTS contains the following PDF's:
    
    d) "PartialDoses" files show partials DOS results for Cu d and O p orbitals relevant for downfolding, as well as the energy windows estimated from them
 
-2) cRPA results that can be used to derive the models
+2) cRPA results that can be used to derive the models ("SM_..." files)
    
-3) full statistical analyses used as basis for the publication [1]
+3) full statistical analyses used as basis for the publication [1]. "best_fits_full.pdf" shows analyses with interactions taken at specific Matsubara frequencies, "best_fits_plasmon.pdf" shows analyses with parameters of the effective Holstein terms, instead.
 
 See example_script.ipynb to get started.
 
