@@ -26,4 +26,4 @@ See example_script.ipynb to get started.
 
 If you find this database useful, cite
 
-[1] arXiv:xxxx.xxxxx
+[1] arXiv:xxxx.xxxxx (to appear soon)
