@@ -26,4 +26,4 @@ See example_script.ipynb to get started.
 
 If you find this database useful, cite
 
-[1] arXiv:xxxx.xxxxx (to appear soon)
+[1] Jakša Vučičević, Upendra Kumar, Chia-Nan Yeh, Miguel A. Morales, Malte Rösner, "Importance of effective Coulomb interactions for Tc in cuprates", arXiv:2606.21323 (2026)
