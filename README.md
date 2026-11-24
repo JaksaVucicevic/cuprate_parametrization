@@ -20,7 +20,7 @@ Folder PLOTS contains the following PDF's:
 
 2) cRPA results that can be used to derive the models ("SM_..." files)
    
-3) full statistical analyses used as basis for the publication [1]. "best_fits_full.pdf" shows analyses with interactions taken at specific Matsubara frequencies, "best_fits_plasmon.pdf" shows analyses with parameters of the effective Holstein terms, instead.
+3) full statistical analyses used as basis for the publication [1]. "best_fits_full.pdf" shows analyses with interactions taken at specific Matsubara frequencies, "best_fits_plasmon.pdf" shows analyses with parameters of the effective Holstein terms, instead. "best_fits_full_tperpmax.pdf" includes also the leading interlayer hopping amplitude in the analysis.
 
 See example_script.ipynb to get started.
 
